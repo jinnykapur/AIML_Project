@@ -11,5 +11,7 @@
 ### **Chitkara University Institute of Engineering and Technology, Punjab**
 
 ## Submitted To: 
-### **Tushar Khitoliya**
+### **Mr. Tushar Khitoliya**
+
+## Supervised By:
 ### **Shagun Sharma**
